@@ -1,5 +1,6 @@
 # Patika-Python_Temel-Proje
 Patika.dev python temel eğitimi bitirme projesi
+www.patika.dev
 
 ## Proje Soruları
 
